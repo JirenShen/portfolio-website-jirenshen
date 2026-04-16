@@ -395,6 +395,13 @@ article .icon {
   height: 90%;
 }
 
+.research-img {
+  width: 90%;
+  height: 450px;
+  object-fit: cover;
+  object-position: center;
+}
+
 .project-title {
   margin: 1rem;
   color: black;
